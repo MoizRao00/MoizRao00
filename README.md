@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MoizRao00
-- 👀 I’m interested in App Developer
+- 👋 Hi, I’m Moiz Rao
+- 👀 I’m interested in App Development
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me https://www.instagram.com/raomoiz000/
 - 😄 Pronouns: he/him
